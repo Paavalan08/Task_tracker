@@ -34,10 +34,30 @@ git clone https://github.com/your-username/task-tracker.git
 cd task-tracker
 ```
 
-### **2. Backend Setup (Server)**
+### **2. Backend Setup (Backend)**
 
-#### 1. Navigate to the server folder: 
+#### 1. Navigate to the backend folder: 
 
 ```bash
 cd backend
 ```
+#### 2. Start the backend server:
+
+```bash
+npm start
+```
+
+### **3. Frontend Setup (React App)**
+
+#### 1. Navigate to the frontend folder: 
+
+```bash
+cd ..
+cd frontend
+```
+#### 2. Start the backend server:
+
+```bash
+npm start
+```
+
