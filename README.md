@@ -35,3 +35,9 @@ cd task-tracker
 ```
 
 ### **2. Backend Setup (Server)**
+
+#### **1. Navigate to the server folder: **
+
+```bash
+cd backend
+```
