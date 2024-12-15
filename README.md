@@ -67,3 +67,8 @@ npm start
 - **Step-by-step Backend and Frontend setup** sections are more detailed and clear.
 - Instructions for navigating between directories (`cd ..`).
 - Made it beginner-friendly with proper commands and sequence.
+
+---
+
+##👤 Author
+-[Paavalan Varathanathan]
